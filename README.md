@@ -3,7 +3,9 @@
 
 ---
 
-## Profile 
-- Name : 강민준 
 
-
+<details>
+<summary> Profile </summary>
+ - Name : 강민준 
+ - E-mail : raphael825@seoultech.ac.kr 
+</details>
