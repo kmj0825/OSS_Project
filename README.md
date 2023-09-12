@@ -9,7 +9,7 @@ I'm Junior in IISE and CS
 
 I'm interested in DL, AI and Data Science. :sparkles: 
 
-<img src="attachments/kg_img.png" , height=400>
+![Knowledge Graph](attachments/kg_img.png)
 
 I am very happy that I took this class this semester.  :tada:
 
